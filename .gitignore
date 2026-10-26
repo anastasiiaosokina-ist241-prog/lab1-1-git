@@ -1,0 +1,13 @@
+# Системні файли ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи та тимчасові каталоги
+*.log
+*.tmp
+tmp/
+
+# Каталоги IDE та редакторів
+.vscode/
+.idea/
