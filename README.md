@@ -12,3 +12,4 @@
 ## Запуск тестів локально
 ```bash
 python -m unittest test_calculator.py
+# Оновлено документацію для задачі 7
