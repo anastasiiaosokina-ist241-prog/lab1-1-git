@@ -1,5 +1,5 @@
 # Проєкт: Калькулятор та CI/CD Пайплайн
-[![Python CI Application](https://github.com/anastasiiaosokina-ist241-prog/lab1-1-git/actions/workflows/python-app.yml/badge.svg)](https://github.com/anastasiiaosokina-ist241-prog/lab1-1-git/actions/workflows/python-app.yml)
+[![Python CI Application](https://github.com/anastasiiaosokina-ist241-prog/lab1-1-git/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/anastasiiaosokina-ist241-prog/lab1-1-git/actions/workflows/python-app.yml)
 
 ## Опис проєкту
 Навчальний проєкт для демонстрації роботи CI/CD пайплайну на базі GitHub Actions, лінтерингу вихідного коду за допомогою flake8 та запуску модульних тестів unittest.
